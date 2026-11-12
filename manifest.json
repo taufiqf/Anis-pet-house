@@ -1,0 +1,9 @@
+{
+  "name": "Anis Pet House Admin",
+  "short_name": "Anis Admin",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#faf7ff",
+  "theme_color": "#b58add",
+  "icons": []
+}
